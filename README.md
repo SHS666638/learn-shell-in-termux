@@ -1,2 +1,3 @@
-# learn-shell-in-termux
-Learn Shell Server In Termux? View all
+# Learn Termux In Shell V2 (By SeeDashMusic)
+## Run Shell:
+`bash run.sh`
